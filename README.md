@@ -1,29 +1,53 @@
-<!-- ================== CYBERPUNK HEADER ================== -->
+<!-- ================== CUSTOM CYBER-QUANTUM HEADER ================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00ffcc&height=260&section=header&text=Daksh%20Bhagwani&fontSize=48&fontColor=00ffcc&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:00ffcc&height=220&section=header&text=%20&fontSize=0" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=Quantum+Cryptography+Researcher;Automotive+Security+Explorer;Bug+Bounty+Hunter;Building+Quantum-Resilient+Systems" />
-</p>
+<pre>
+██████╗  █████╗ ██╗  ██╗███████╗██╗  ██╗
+██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██║  ██║
+██║  ██║███████║█████╔╝ ███████╗███████║
+██║  ██║██╔══██║██╔═██╗ ╚════██║██╔══██║
+██████╔╝██║  ██║██║  ██╗███████║██║  ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
-<!-- ================== VISUAL STRIP ================== -->
+> initializing quantum vehicular security layer...
+> syncing cryptographic modules...
+> establishing V2X secure channel...
+> scanning attack surface...
+> system status: ACTIVE ⚡
+>
+> </pre>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320"/>
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="320"/>
 </p>
 
 ---
 
-```bash
-> boot sequence initiated...
-> loading quantum modules...
-> connecting to vehicular network (V2X)...
-> scanning attack surface...
-> status: ONLINE ⚡
+## 🧬 LIVE SYSTEM SIGNAL
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Quantum-Active-00ffcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/V2X-Secure-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat_Model-Live-red?style=for-the-badge" />
+</p>
+
+---
+
+## ⚡ SIGNAL INTERFACE (LOW-LEVEL VIEW)
+
+```text
+[QKD] Initializing BB84 protocol...
+[V2X] Handshake established with vehicle node...
+[CRYPTO] Testing quantum-resistant algorithms...
+[ALERT] Classical encryption vulnerable to quantum adversary
+[PATCH] Switching to hybrid PQC model...
+[STATUS] Secure channel stabilized
 ```
+
+---
+
 
 ---
 
