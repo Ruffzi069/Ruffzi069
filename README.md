@@ -153,6 +153,6 @@ Intel: Shodan | Maltego | theHarvester
 
 ## 🐍 CONTRIBUTION MATRIX
 
-![snake](https://github.com/Ruffzi069/Ruffzi069/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Ruffzi069/Ruffzi069/output/github-contribution-grid-snake.svg)
 
 
