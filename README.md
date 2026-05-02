@@ -1,8 +1,5 @@
 <!-- ================== CUSTOM CYBER-QUANTUM HEADER ================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:00ffcc&height=220&section=header&text=%20&fontSize=0" />
-</p>
 
 <p align="center">
 <pre>
@@ -32,19 +29,6 @@
   <img src="https://img.shields.io/badge/V2X-Secure-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Threat_Model-Live-red?style=for-the-badge" />
 </p>
-
----
-
-## ⚡ SIGNAL INTERFACE (LOW-LEVEL VIEW)
-
-```text
-[QKD] Initializing BB84 protocol...
-[V2X] Handshake established with vehicle node...
-[CRYPTO] Testing quantum-resistant algorithms...
-[ALERT] Classical encryption vulnerable to quantum adversary
-[PATCH] Switching to hybrid PQC model...
-[STATUS] Secure channel stabilized
-```
 
 ---
 
