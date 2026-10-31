@@ -1,4 +1,4 @@
-::: {align="center"}
+{align="center"}
 `<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:090014,35:4B0B8F,70:8A2BE2,100:FF6B00&text=DAKSH%20BHAGWANI&fontColor=FFFFFF&fontSize=52&fontAlignY=43&desc=AUTOMOTIVE%20SECURITY%20%E2%80%A2%20PQC%20%E2%80%A2%20OFFENSIVE%20RESEARCH&descSize=14&descAlignY=64&animation=twinkling" width="100%" />`{=html}
 
 `<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&width=800&lines=Breaking+assumptions.+Securing+systems.;Researching+the+future+of+connected+mobility.;Engineering+quantum-resilient+architectures.;Understand+the+attack.+Build+the+defense." />`{=html}
