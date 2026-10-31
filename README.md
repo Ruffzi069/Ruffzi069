@@ -1,203 +1,224 @@
- <div align="center">
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:090014,35:4B0B8F,70:8A2BE2,100:FF6B00&text=DAKSH%20BHAGWANI&fontColor=FFFFFF&fontSize=52&fontAlignY=43&desc=AUTOMOTIVE%20SECURITY%20%E2%80%A2%20PQC%20%E2%80%A2%20OFFENSIVE%20RESEARCH&descSize=14&descAlignY=64&animation=twinkling" width="100%" />`{=html}
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:6A00F5,45:9B36FF,100:FF6B00&text=DAKSH%20BHAGWANI&fontColor=FFFFFF&fontSize=48&fontAlignY=45&desc=AUTOMOTIVE%20SECURITY%20%7C%20PQC%20%7C%20OFFENSIVE%20RESEARCH&descSize=13&descAlignY=65&animation=twinkling" width="100%" />
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&width=800&lines=Breaking+assumptions.+Securing+systems.;Researching+the+future+of+connected+mobility.;Engineering+quantum-resilient+architectures.;Understand+the+attack.+Build+the+defense." />`{=html}
 
-<a href="https://github.com/Ruffzi069">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=700&lines=Breaking+assumptions.+Securing+systems.;Exploring+the+future+of+automotive+security.;Building+quantum-resilient+architectures.;Research.+Exploit.+Engineer.+Repeat." />
-</a>
+`<img src="https://img.shields.io/badge/RESEARCH-ACTIVE-00F5D4?style=for-the-badge&labelColor=101020" />`{=html}
+`<img src="https://img.shields.io/badge/AUTOMOTIVE-SECURITY-9B5CFF?style=for-the-badge&labelColor=101020" />`{=html}
+`<img src="https://img.shields.io/badge/POST--QUANTUM-CRYPTOGRAPHY-FF7A1A?style=for-the-badge&labelColor=101020" />`{=html}
+`<img src="https://img.shields.io/badge/OFFENSIVE-SECURITY-00B8FF?style=for-the-badge&labelColor=101020" />`{=html}
+:::
 
-<br/>
+------------------------------------------------------------------------
 
-<img src="https://img.shields.io/badge/STATUS-RESEARCHING-00F5D4?style=for-the-badge&logo=hackthebox&logoColor=black" />
-<img src="https://img.shields.io/badge/DOMAIN-AUTOMOTIVE%20SECURITY-9B36FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-POST--QUANTUM-FF6B00?style=for-the-badge" />
+## `~/about`
 
-</div>
-
----
-
-## 🧬 `whoami`
-
-```yaml
-identity:
-  name: Daksh Bhagwani
-  role: Cybersecurity Researcher & Engineer
-  location: India
-
+``` yaml
+name: Daksh Bhagwani
+role: Cybersecurity Researcher & Engineer
+base: India
 research:
-  - Automotive Cybersecurity
-  - Post-Quantum Cryptography
-  - Connected Vehicle Security
-  - Offensive Security & API Pentesting
-  - Security Engineering
-
-currently:
-  - Exploring cross-layer vehicle security
-  - Engineering security research prototypes
-  - Investigating quantum-resilient architectures
-  - Building tools for the security community
-
-mindset: "Understand the attack. Engineer the defense."
+  - Automotive and connected-vehicle security
+  - Post-quantum cryptography and secure key management
+  - Web and API penetration testing
+  - Security engineering and threat detection
+currently_exploring:
+  - Cross-layer authorization in connected vehicles
+  - Quantum-resilient vehicle communication
+  - Automotive API attack surfaces
+  - Practical security tooling and research prototypes
+principle: "Understand the attack. Engineer the defense."
 ```
 
-I'm interested in the security problems emerging where **vehicles, cryptography, networks, and software converge**.
+I work at the intersection of **automotive cybersecurity, cryptography,
+offensive security, and systems engineering**. I enjoy taking security
+ideas beyond slides and theory: building prototypes, testing
+assumptions, documenting findings, and sharing what I learn.
 
-I enjoy going beyond theoretical security — experimenting, building prototypes, validating assumptions, and documenting what I discover.
+## `~/research-domains`
 
----
-
-## ⚡ `research_modules`
-
+```{=html}
 <table>
+```
+```{=html}
 <tr>
+```
+```{=html}
 <td width="50%" valign="top">
+```
+### 🚘 Automotive Security
 
-### 🚗 Automotive Security
+-   Connected-vehicle and V2X security
+-   ECU, CAN and UDS attack surfaces
+-   Telematics and vehicle APIs
+-   Cross-layer authorization
+-   Automotive threat modeling
 
-- Connected Vehicle Security
-- ECU & CAN Communication
-- Telematics & V2X
-- Vehicle API Security
-- Threat Modeling
-
+```{=html}
 </td>
+```
+```{=html}
 <td width="50%" valign="top">
+```
+### 🔐 Quantum-Resilient Security
 
-### 🔐 Quantum Security
+-   Post-quantum cryptography
+-   QKD concepts and BB84
+-   QRNG-based key generation
+-   Key lifecycle and secure distribution
+-   Cryptographic migration
 
-- Post-Quantum Cryptography
-- QKD & BB84
-- QRNG Integration
-- Quantum-Resilient Systems
-- Cryptographic Key Management
-
+```{=html}
 </td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr>
+```
+```{=html}
 <td width="50%" valign="top">
-
+```
 ### ⚔️ Offensive Security
 
-- Web Application Pentesting
-- API Security
-- Vulnerability Research
-- Bug Bounty
-- Digital Forensics
+-   Web application and API pentesting
+-   Vulnerability research and bug bounty
+-   Authentication and authorization testing
+-   Attack-surface analysis
+-   Digital forensics
 
+```{=html}
 </td>
+```
+```{=html}
 <td width="50%" valign="top">
-
+```
 ### 🧠 Security Engineering
 
-- SIEM & Threat Detection
-- Security Automation
-- AI-Assisted Security Research
-- Access Control
-- Secure System Architecture
+-   SIEM and threat detection
+-   Security automation
+-   AI-assisted security research
+-   Access-control systems
+-   Secure architecture and validation
 
+```{=html}
 </td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </table>
+```
 
----
+------------------------------------------------------------------------
 
-## 🧪 `selected_experiments`
+## `~/featured-projects`
 
-| Project | Research / Engineering Focus |
-|:--|:--|
-| 🧠 **NEXUS-AI** | AI-assisted security research console and attack simulation |
-| 🛡️ **LockNLog** | Asset-aware log access control and Wazuh integration |
-| 🚘 **AutoAPI-X** | Connected-vehicle API security simulation platform |
-| 🔐 **VahanaSec** | Automotive cybersecurity tooling initiative |
-| 🌐 **Suricata Cheat Sheet** | Practical network threat detection reference |
+### 🧠 NEXUS-AI --- AI Security Research Console
 
-<div align="center">
+An experimental security research environment combining local LLM
+integration, security telemetry, simulation workflows, and persistent
+research data.
 
-<a href="https://github.com/Ruffzi069?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-9B36FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`Python` `Ollama` `SQLite` `Security Research` `CLI`
 
-<a href="https://ruffzi069.github.io/suricata_cheat_sheet/">
-<img src="https://img.shields.io/badge/READ-SURICATA%20GUIDE-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=black"/>
-</a>
+### 🛡️ LockNLog --- Asset-Aware Security Log Access
 
-</div>
+A SIEM extension concept focused on strict, intelligent access control
+over security logs. Integrates with Wazuh and explores role-based and
+asset-aware authorization so users access only the data they are
+permitted to see.
 
----
+`Wazuh` `RBAC` `Asset-Based Access Control` `Security Monitoring`
 
-## 🧰 `arsenal`
+### 🚗 AutoAPI-X --- Connected-Vehicle API Security Lab
 
-<div align="center">
+A simulation platform for exploring connected-vehicle API security,
+including the relationship between cloud-facing APIs, telematics
+components, vehicle commands, and in-vehicle networks.
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,java,mysql,bash&theme=dark" />
+`Python` `Flask` `SocketCAN` `SQLite` `Vehicle Security`
 
-### Frameworks & Engineering
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,docker,git,linux,vscode&theme=dark" />
+### 🌑 SHADOW --- Connected-Vehicle Attack-Path Demonstrator
 
-### Security & Research
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Wazuh-00A9CE?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/SocketCAN-9B36FF?style=for-the-badge&logoColor=white" />
+A security demonstration exploring how weak object-level authorization
+in a cloud/mobile vehicle interface can create a path from an API flaw
+to unauthorized vehicle actions. Models the chain from application and
+cloud API through telematics and CAN communication to an ECU.
 
-</div>
+`API Security` `IDOR / BOLA` `Telematics` `CAN` `ECU`
 
----
+### 🔐 Quantum-Resilient Automotive Communication
 
-## 📡 `system_telemetry`
+Research and prototyping around stronger key establishment and secure
+communication for connected-vehicle environments, including PQC,
+QRNG-derived material, authenticated encryption, and key-management
+considerations.
 
-<div align="center">
+`PQC` `QRNG` `AES-GCM` `Automotive Cryptography`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ruffzi069&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=BF5AF2&icon_color=FF6B00&text_color=E6EDF3&ring_color=00F5D4" />
+------------------------------------------------------------------------
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Ruffzi069&hide_border=true&background=0D1117&ring=BF5AF2&fire=FF6B00&currStreakLabel=00F5D4&sideLabels=BF5AF2&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+## `~/technical-arsenal`
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ruffzi069&bg_color=0D1117&color=00F5D4&line=BF5AF2&point=FF6B00&area=true&hide_border=true" />
+::: {align="center"}
+**Languages**
 
-</div>
+`<img src="https://skillicons.dev/icons?i=python,c,cpp,js,java,bash,mysql&theme=dark" />`{=html}
 
----
+**Engineering & Platforms**
 
-## 🏆 `achievements_unlocked`
+`<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,docker,linux,git,vscode&theme=dark" />`{=html}
 
-<div align="center">
+**Security Toolkit**
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ruffzi069&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+`<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />`{=html}
+`<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />`{=html}
+`<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />`{=html}
+`<img src="https://img.shields.io/badge/Wazuh-00A9CE?style=for-the-badge&logoColor=white" />`{=html}
+`<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white" />`{=html}
+`<img src="https://img.shields.io/badge/SocketCAN-8A2BE2?style=for-the-badge&logoColor=white" />`{=html}
+:::
 
-</div>
+------------------------------------------------------------------------
 
----
+## `~/github-telemetry`
 
-## 🐍 `contribution_matrix`
+::: {align="center"}
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ruffzi069&show_icons=true&hide_border=true&bg_color=090014&title_color=BD7BFF&icon_color=FF7A1A&text_color=E6E0F0&ring_color=00F5D4" />`{=html}
+`<img height="170" src="https://streak-stats.demolab.com?user=Ruffzi069&hide_border=true&background=090014&ring=9B5CFF&fire=FF7A1A&currStreakLabel=00F5D4&sideLabels=BD7BFF&dates=8B8499&currStreakNum=FFFFFF&sideNums=FFFFFF" />`{=html}
 
-<div align="center">
+`<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ruffzi069&bg_color=090014&color=00F5D4&line=9B5CFF&point=FF7A1A&area=true&hide_border=true" />`{=html}
+:::
 
-<img src="https://raw.githubusercontent.com/Ruffzi069/Ruffzi069/output/github-contribution-grid-snake-dark.svg" width="100%" />
+------------------------------------------------------------------------
 
-</div>
+## `~/connect`
 
----
+::: {align="center"}
+`<a href="https://linkedin.com/in/daksh-bhagwani/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />`{=html}
+`</a>`{=html}
+`<a href="https://github.com/Ruffzi069?tab=repositories">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />`{=html}
+`</a>`{=html}
 
-## 🌌 `transmission`
+`<br/>`{=html}`<br/>`{=html}
 
-> "The future doesn't wait for systems to become secure. We have to engineer security before the threat arrives."
+**Open to:** research collaborations · security engineering · technical
+talks · workshops
+:::
 
-<div align="center">
+------------------------------------------------------------------------
 
-<a href="https://linkedin.com/in/daksh-bhagwani/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Ruffzi069">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+::: {align="center"}
+> **"Systems designed for today fail tomorrow.\
+> Quantum-aware systems survive."**
 
-<br/><br/>
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,40:4B0B8F,75:8A2BE2,100:FF6B00&height=115&section=footer" width="100%" />`{=html}
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F5,50:9B36FF,100:FF6B00&height=110&section=footer" width="100%" />
-
-<sub>ENGINEERED WITH CURIOSITY · POWERED BY RESEARCH · SECURED BY DESIGN</sub>
-
-</div>
+`<sub>`{=html}CURIOUS BY DEFAULT · RESEARCH-DRIVEN ·
+SECURITY-FOCUSED`</sub>`{=html}
+:::
