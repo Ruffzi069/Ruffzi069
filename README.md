@@ -1,13 +1,14 @@
+
 ![Daksh Bhagwani — Automotive Security Researcher](https://capsule-render.vercel.app/api?type=venom&height=230&color=0:090014,35:4B0B8F,70:8A2BE2,100:FF6B00&text=DAKSH%20BHAGWANI&fontColor=FFFFFF&fontSize=52&fontAlignY=43&desc=AUTOMOTIVE%20SECURITY%20%E2%80%A2%20PQC%20%E2%80%A2%20OFFENSIVE%20RESEARCH&descSize=14&descAlignY=64&animation=twinkling)
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&width=800&lines=Breaking+assumptions.+Securing+systems.;Researching+the+future+of+connected+mobility.;Engineering+quantum-resilient+architectures.;Understand+the+attack.+Build+the+defense.)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&width=800&lines=Breaking+assumptions.+Securing+systems.;Researching+the+future+of+connected+mobility.;Engineering+quantum-resilient+architectures.;Understand+the+attack.+Build+the+defense." />
 
-![Research](https://img.shields.io/badge/RESEARCH-ACTIVE-00F5D4?style=for-the-badge&labelColor=101020)
-![Automotive](https://img.shields.io/badge/AUTOMOTIVE-SECURITY-9B5CFF?style=for-the-badge&labelColor=101020)
-![PQC](https://img.shields.io/badge/POST--QUANTUM-CRYPTOGRAPHY-FF7A1A?style=for-the-badge&labelColor=101020)
-![Offensive](https://img.shields.io/badge/OFFENSIVE-SECURITY-00B8FF?style=for-the-badge&labelColor=101020)
+<img src="https://img.shields.io/badge/RESEARCH-ACTIVE-00F5D4?style=for-the-badge&labelColor=101020" />
+<img src="https://img.shields.io/badge/AUTOMOTIVE-SECURITY-9B5CFF?style=for-the-badge&labelColor=101020" />
+<img src="https://img.shields.io/badge/POST--QUANTUM-CRYPTOGRAPHY-FF7A1A?style=for-the-badge&labelColor=101020" />
+<img src="https://img.shields.io/badge/OFFENSIVE-SECURITY-00B8FF?style=for-the-badge&labelColor=101020" />
 
 </div>
 
@@ -39,21 +40,52 @@ I work at the intersection of **automotive cybersecurity, cryptography, offensiv
 
 ## `~/research-domains`
 
-| 🚘 Automotive Security | 🔐 Quantum-Resilient Security |
-|:--|:--|
-| Connected-vehicle and V2X security | Post-quantum cryptography |
-| ECU, CAN and UDS attack surfaces | QKD concepts and BB84 |
-| Telematics and vehicle APIs | QRNG-based key generation |
-| Cross-layer authorization | Key lifecycle and secure distribution |
-| Automotive threat modeling | Cryptographic migration |
-
-| ⚔️ Offensive Security | 🧠 Security Engineering |
-|:--|:--|
-| Web and API penetration testing | SIEM and threat detection |
-| Vulnerability research and bug bounty | Security automation |
-| Authentication and authorization testing | AI-assisted security research |
-| Attack-surface analysis | Access-control systems |
-| Digital forensics | Secure architecture and validation |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚘 Automotive Security</h3>
+      <ul>
+        <li>Connected-vehicle and V2X security</li>
+        <li>ECU, CAN and UDS attack surfaces</li>
+        <li>Telematics and vehicle APIs</li>
+        <li>Cross-layer authorization</li>
+        <li>Automotive threat modeling</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 Quantum-Resilient Security</h3>
+      <ul>
+        <li>Post-quantum cryptography</li>
+        <li>QKD concepts and BB84</li>
+        <li>QRNG-based key generation</li>
+        <li>Key lifecycle and secure distribution</li>
+        <li>Cryptographic migration</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚔️ Offensive Security</h3>
+      <ul>
+        <li>Web and API penetration testing</li>
+        <li>Vulnerability research and bug bounty</li>
+        <li>Authentication and authorization testing</li>
+        <li>Attack-surface analysis</li>
+        <li>Digital forensics</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Security Engineering</h3>
+      <ul>
+        <li>SIEM and threat detection</li>
+        <li>Security automation</li>
+        <li>AI-assisted security research</li>
+        <li>Access-control systems</li>
+        <li>Secure architecture and validation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -97,20 +129,20 @@ Research and prototyping around stronger key establishment and secure communicat
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,java,bash,mysql&theme=dark)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,java,bash,mysql&theme=dark" />
 
 **Engineering & Platforms**
 
-![Platforms](https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,docker,linux,git,vscode&theme=dark)
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,docker,linux,git,vscode&theme=dark" />
 
 **Security Toolkit**
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-00A9CE?style=for-the-badge&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white)
-![SocketCAN](https://img.shields.io/badge/SocketCAN-8A2BE2?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Wazuh-00A9CE?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SocketCAN-8A2BE2?style=for-the-badge&logoColor=white" />
 
 </div>
 
@@ -120,11 +152,11 @@ Research and prototyping around stronger key establishment and secure communicat
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruffzi069&show_icons=true&hide_border=true&bg_color=090014&title_color=BD7BFF&icon_color=FF7A1A&text_color=E6E0F0&ring_color=00F5D4)
+<img src="https://streak-stats.demolab.com?user=Ruffzi069&hide_border=true&background=090014&ring=9B5CFF&fire=FF7A1A&currStreakLabel=00F5D4&sideLabels=BD7BFF&dates=8B8499&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ruffzi069&hide_border=true&background=090014&ring=9B5CFF&fire=FF7A1A&currStreakLabel=00F5D4&sideLabels=BD7BFF&dates=8B8499&currStreakNum=FFFFFF&sideNums=FFFFFF)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruffzi069&bg_color=090014&color=00F5D4&line=9B5CFF&point=FF7A1A&area=true&hide_border=true)
+<a href="https://github.com/Ruffzi069?tab=repositories">
+<img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-9B5CFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -134,10 +166,15 @@ Research and prototyping around stronger key establishment and secure communicat
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-bhagwani/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruffzi069)
+<a href="https://linkedin.com/in/daksh-bhagwani/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-**Open to:** research collaborations · security engineering · technical talks · workshops
+<a href="https://github.com/Ruffzi069">
+<img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**Open to:** Research collaborations · Security engineering · Technical talks · Workshops
 
 </div>
 
@@ -145,10 +182,10 @@ Research and prototyping around stronger key establishment and secure communicat
 
 <div align="center">
 
-> **“Systems designed for today fail tomorrow.  
-> Quantum-aware systems survive.”**
+> **"Systems designed for today fail tomorrow.  
+> Quantum-aware systems survive."**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:090014,40:4B0B8F,75:8A2BE2,100:FF6B00&height=115&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,40:4B0B8F,75:8A2BE2,100:FF6B00&height=115&section=footer" width="100%" />
 
 *CURIOUS BY DEFAULT · RESEARCH-DRIVEN · SECURITY-FOCUSED*
 
